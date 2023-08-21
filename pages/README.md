@@ -1,0 +1,1 @@
+Here is the folder where you can either override the page files (originally located in `[root]/pages`) or create your own page files
